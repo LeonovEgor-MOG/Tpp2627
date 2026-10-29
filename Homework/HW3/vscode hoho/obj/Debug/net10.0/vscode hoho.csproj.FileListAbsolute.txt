@@ -1,0 +1,14 @@
+c:\Users\ptest\Desktop\vscode hoho\bin\Debug\net10.0\vscode hoho.exe
+C:\Users\ptest\Desktop\vscode hoho\bin\Debug\net10.0\vscode hoho.deps.json
+C:\Users\ptest\Desktop\vscode hoho\bin\Debug\net10.0\vscode hoho.runtimeconfig.json
+c:\Users\ptest\Desktop\vscode hoho\bin\Debug\net10.0\vscode hoho.dll
+c:\Users\ptest\Desktop\vscode hoho\bin\Debug\net10.0\vscode hoho.pdb
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.AssemblyInfoInputs.cache
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.AssemblyInfo.cs
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.csproj.CoreCompileInputs.cache
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.dll
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\refint\vscode hoho.dll
+c:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.pdb
+C:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\vscode hoho.genruntimeconfig.cache
+C:\Users\ptest\Desktop\vscode hoho\obj\Debug\net10.0\ref\vscode hoho.dll
